@@ -7,6 +7,9 @@
 # All rights reserved - Do Not Redistribute
 #
 
-remote_file  node['mycook']['destination_path'] do
-  source node['mycook']['remote_file']
+directory "/tmp/folder" do
+  owner 'root'
+  group 'root'
+  mode '0755'
+  action :create
 end
