@@ -1,5 +1,5 @@
 #
-# Cookbook Name:: stepking_remotefile
+# Cookbook Name:: mycook
 # Recipe:: default
 #
 # Copyright (C) 2015 YOUR_NAME

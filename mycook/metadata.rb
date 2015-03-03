@@ -1,8 +1,8 @@
-name             'stepking_remotefile'
+name             'mycook'
 maintainer       'YOUR_NAME'
 maintainer_email 'YOUR_EMAIL'
 license          'All rights reserved'
-description      'Installs/Configures stepking_remotefile'
-long_description 'Installs/Configures stepking_remotefile'
+description      'Installs/Configures '
+long_description 'Installs/Configures '
 version          '0.1.0'
 
